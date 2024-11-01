@@ -1,4 +1,4 @@
-1 - Set up firebase with flutter project
+> Set up firebase with flutter project
 2 - Make sure you enabled realtime database and cloud storage
 3 - Add firebase packages to project:
 
